@@ -88,6 +88,14 @@ Recently completed my **M.B.A. in Systems Management**, combining technical expe
 > 
 > **Tech:** React, Vite, JavaScript, CSS3  
 > **Live:** [View Demo](https://saravanansaranraj27.github.io/web-tools-pro/)
+>
+
+### [PRISM Dashboard](https://github.com/saravanansaranraj27/prism-dashboard)
+> Behavioral-finance analytics dashboard visualizing small-cap stability trends, SCARF cognitive bias metrics, and SEBI compliance indicators — built with Angular 20 standalone components, ngx-charts, and glassmorphic UI design.
+> 
+> **Tech:** Angular 20, TypeScript, ngx-charts, D3.js, PapaParse, Angular Material, SCSS  
+> **Live:** [View Demo](https://saravanansaranraj27.github.io/prism-dashboard/)  
+> **Research:** MBA Systems Management Project - Bharathidasan University (2025)
 
 ---
 
